@@ -1,0 +1,16 @@
+G:\education\Project\SimpleSteganography1\SimpleSteganography1\SimpleSteganography1\bin\Debug\SimpleSteganography1.exe
+G:\education\Project\SimpleSteganography1\SimpleSteganography1\SimpleSteganography1\bin\Debug\SimpleSteganography1.pdb
+G:\education\Project\SimpleSteganography1\SimpleSteganography1\SimpleSteganography1\obj\x86\Debug\SimpleSteganography1.csprojResolveAssemblyReference.cache
+G:\education\Project\SimpleSteganography1\SimpleSteganography1\SimpleSteganography1\obj\x86\Debug\SimpleSteganography.Form1.resources
+G:\education\Project\SimpleSteganography1\SimpleSteganography1\SimpleSteganography1\obj\x86\Debug\SimpleSteganography.Properties.Resources.resources
+G:\education\Project\SimpleSteganography1\SimpleSteganography1\SimpleSteganography1\obj\x86\Debug\SimpleSteganography1.csproj.GenerateResource.Cache
+G:\education\Project\SimpleSteganography1\SimpleSteganography1\SimpleSteganography1\obj\x86\Debug\SimpleSteganography1.exe
+G:\education\Project\SimpleSteganography1\SimpleSteganography1\SimpleSteganography1\obj\x86\Debug\SimpleSteganography1.pdb
+F:\SimpleSteganography1\SimpleSteganography1\SimpleSteganography1\obj\x86\Debug\SimpleSteganography1.exe
+F:\SimpleSteganography1\SimpleSteganography1\SimpleSteganography1\obj\x86\Debug\SimpleSteganography1.pdb
+F:\SimpleSteganography1\SimpleSteganography1\SimpleSteganography1\bin\Debug\SimpleSteganography1.exe
+F:\SimpleSteganography1\SimpleSteganography1\SimpleSteganography1\bin\Debug\SimpleSteganography1.pdb
+F:\SimpleSteganography1\SimpleSteganography1\SimpleSteganography1\obj\x86\Debug\SimpleSteganography1.csprojResolveAssemblyReference.cache
+F:\SimpleSteganography1\SimpleSteganography1\SimpleSteganography1\obj\x86\Debug\SimpleSteganography.Form1.resources
+F:\SimpleSteganography1\SimpleSteganography1\SimpleSteganography1\obj\x86\Debug\SimpleSteganography.Properties.Resources.resources
+F:\SimpleSteganography1\SimpleSteganography1\SimpleSteganography1\obj\x86\Debug\SimpleSteganography1.csproj.GenerateResource.Cache
